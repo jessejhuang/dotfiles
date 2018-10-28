@@ -1,4 +1,3 @@
-"set autoindent
 set tabstop=4
 set softtabstop=0 noexpandtab
 set number
@@ -7,9 +6,7 @@ noremap <C-c> <Esc>
 
 call plug#begin('~/.vim/plugged')
 
-Plug 'KeitaNakamura/neodark.vim'
-let g:neodark#background='black'
-colorscheme neodark
+colorscheme onedark
 "Add plugins to &runtimepath
 call plug#end()
 
