@@ -5,7 +5,7 @@ set number
 set backspace=indent,eol,start
 syntax on
 noremap <C-c> <Esc>
-
+command W write
 
 if (has("autocmd") && !has("gui_running"))
 	augroup colorset
