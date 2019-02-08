@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#00CED1",
+        "terminal.background": "#0c0c0e",
+    },
+    "workbench.editor.enablePreview": false,
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "dateTime.showAMPM": false,
+    "[javascript]": {
+        "editor.tabSize": 2,
+    },
+    "java.test.report.position": "currentView",
+    "workbench.startupEditor": "newUntitledFile",
+    "extensions.ignoreRecommendations": false,
+}
